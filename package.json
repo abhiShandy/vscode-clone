@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "electron": "^30.0.0"
+  },
+  "name": "vscode-clone",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
